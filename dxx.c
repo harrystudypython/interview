@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    char* s[100] = {0}。
+    char* s[100] = {0};
     char* p = s;//p is point,which point to s(point struct)
     char input = {0};
     int i = 0;
